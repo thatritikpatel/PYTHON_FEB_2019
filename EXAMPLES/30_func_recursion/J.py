@@ -1,0 +1,4 @@
+def aaa():
+	aaa()
+
+aaa()

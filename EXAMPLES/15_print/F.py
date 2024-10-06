@@ -1,0 +1,8 @@
+print(2)
+print(2.34)
+print(2+3j)
+print(True)
+print('abc')
+print([1,2,4])
+print((12,34))
+print({2,3})

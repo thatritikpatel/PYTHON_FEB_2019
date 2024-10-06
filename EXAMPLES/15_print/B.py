@@ -1,0 +1,8 @@
+print('mohan')
+print()
+print()
+print()
+print()
+print()
+print()
+print('kumar')

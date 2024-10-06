@@ -1,0 +1,5 @@
+#print(bin(12))
+#print(bin(0b1100))
+#print(bin(0o45))
+#print(bin(0x48))
+print(bin(0o48))

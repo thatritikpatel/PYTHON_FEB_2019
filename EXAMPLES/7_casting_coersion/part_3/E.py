@@ -1,0 +1,7 @@
+#x=bool(12+3j)
+#x=bool(0+0j)
+#x=bool(0j)
+#x=bool(0+1j)
+#x=bool(1+0j)
+#x=bool(j)
+print(x)
